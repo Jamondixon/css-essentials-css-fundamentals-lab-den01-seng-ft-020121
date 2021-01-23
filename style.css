@@ -1,5 +1,33 @@
 body {
+
+  background-position: center;
   width: 100%;
   height: 100%;
   margin: 0;
+
+}
+#featured-property{
+
+  align-items: center;
+  text-align: center;
+  font-size: 10px;
+  width: 800px;
+}
+header {
+
+  text-align: center;
+}
+a {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: gray;
+}
+details {
+  font-size: 10px;
+  text-align: center;
+}
+figure {
+  background-image: url(images/intro-pic.jpg);
+  background-position: center;
 }
