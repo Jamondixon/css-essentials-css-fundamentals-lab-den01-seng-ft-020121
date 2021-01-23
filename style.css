@@ -23,3 +23,9 @@ figcaption {
   #featured-property p {
   text-align: center;
   hard width: 800px;
+
+  #details div{
+    float: left;
+    
+  }
+  
