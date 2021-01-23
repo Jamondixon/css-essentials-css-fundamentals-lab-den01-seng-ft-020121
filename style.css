@@ -14,3 +14,8 @@ IMG.displayed {
   padding-right: 10px;
   background-color: gray;
 }
+
+details {
+  font-size: 8px;
+  text-align: center;
+}
