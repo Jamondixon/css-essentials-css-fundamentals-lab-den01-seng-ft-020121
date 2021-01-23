@@ -27,7 +27,10 @@ details {
   font-size: 10px;
   text-align: center;
 }
-figure {
+
+}
+img {
   background-image: url(images/intro-pic.jpg);
   background-position: center;
+  
 }
